@@ -4,7 +4,7 @@
     "phantomJs": false,
     "imageMagick": false
   },
-  "preBuildCommands": ["npm install"],
+  "preBuildCommands": [],
   "postBuildCommands": [],
   "buildOptions": {
     "mobileServerUrl": false,
