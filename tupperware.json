@@ -8,6 +8,6 @@
   "postBuildCommands": [],
   "buildOptions": {
     "mobileServerUrl": false,
-    "additionalFlags": "--server-only --allow-superuser"
+    "additionalFlags": ""
   }
 }
