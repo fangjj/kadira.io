@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+  "nodeVersion": "0.10.40",
+    "phantomJs": false,
+    "imageMagick": false
+  },
+  "preBuildCommands": ["npm install"],
+  "postBuildCommands": [],
+  "buildOptions": {
+    "mobileServerUrl": false,
+    "additionalFlags": "--server-only --allow-superuser"
+  }
+}
